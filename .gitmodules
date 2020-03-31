@@ -1,0 +1,3 @@
+[submodule "Kanoon"]
+	path = Kanoon
+	url = https://github.com/apoorv74/Kanoon.git
